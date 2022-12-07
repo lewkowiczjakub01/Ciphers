@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Szyfr Cezara i Szyfr Afiniczny/1.0.0": {
+        "runtime": {
+          "Szyfr Cezara i Szyfr Afiniczny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Szyfr Cezara i Szyfr Afiniczny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

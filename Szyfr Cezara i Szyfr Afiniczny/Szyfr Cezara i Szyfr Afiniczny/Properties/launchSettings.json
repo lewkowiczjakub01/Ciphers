@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Szyfr Cezara i Szyfr Afiniczny": {
+      "commandName": "Project",
+      "commandLineArgs": "-c -k"
+    }
+  }
+}
