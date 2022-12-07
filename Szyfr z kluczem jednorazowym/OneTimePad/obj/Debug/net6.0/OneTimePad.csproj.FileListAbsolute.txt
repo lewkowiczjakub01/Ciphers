@@ -1,0 +1,15 @@
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\bin\Debug\net6.0\OneTimePad.exe
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\bin\Debug\net6.0\OneTimePad.deps.json
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\bin\Debug\net6.0\OneTimePad.runtimeconfig.json
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\bin\Debug\net6.0\OneTimePad.dll
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\bin\Debug\net6.0\OneTimePad.pdb
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\OneTimePad.csproj.AssemblyReference.cache
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\OneTimePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\OneTimePad.AssemblyInfoInputs.cache
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\OneTimePad.AssemblyInfo.cs
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\OneTimePad.csproj.CoreCompileInputs.cache
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\OneTimePad.dll
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\refint\OneTimePad.dll
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\OneTimePad.pdb
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\OneTimePad.genruntimeconfig.cache
+C:\Users\kubal\Desktop\Studia\Semestr 5\Podstawy kryptografii\xor\OneTimePad\obj\Debug\net6.0\ref\OneTimePad.dll

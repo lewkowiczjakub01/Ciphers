@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OneTimePad": {
+      "commandName": "Project",
+      "commandLineArgs": "-k"
+    }
+  }
+}
